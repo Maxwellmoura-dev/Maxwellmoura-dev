@@ -64,20 +64,4 @@ Banco de Dados: MySQL, MongoDB
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Maxwellmoura-dev&show_icons=true&theme=dark&include_all_commits=true" 
-/>
-
-<img 
-    align="left" 
-    alt="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwellmoura-dev&theme=dark&include_all_commits=true" 
-/>
